@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋, I am David King </p> 
+### Hi there 👋, I am David King
 <hr> </hr>
 <!--
 **Veloriux/Veloriux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
