@@ -1,4 +1,4 @@
-### Hi there 👋, I am David King
+### Hi, I'm David! 👋
 <hr> </hr>
 <!--
 **Veloriux/Veloriux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
