@@ -3,7 +3,7 @@ Hi there, I'm David! 👋
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [david.b.king@outlook.com](mailto:david.b.king@outlook.com)
-* 🧠  I'm learning ServiceNow Development & Advanced JavaScript
+* 🧠  I'm learning ServiceNow Development & JavaScript
 
 ### Skills
 
